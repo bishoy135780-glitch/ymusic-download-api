@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "functions": { "api/download.js": { "maxDuration": 60 } },
+  "rewrites": [{ "source": "/download", "destination": "/api/download" }]
+}

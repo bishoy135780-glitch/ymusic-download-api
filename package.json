@@ -1,0 +1,9 @@
+{
+  "name": "ymusic-download-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone audio download API for YMusic, ready for Vercel.",
+  "engines": { "node": ">=20" },
+  "dependencies": { "@distube/ytdl-core": "^4.16.12" }
+}
